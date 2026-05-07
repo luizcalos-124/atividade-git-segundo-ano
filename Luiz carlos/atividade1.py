@@ -1,7 +1,7 @@
 print("////// Menu de jogo //////\n")
 
 Estoque = [
-     
+     ["Nome", "Preço", "Quantidade em estoque"]
 ]
 a = 0
 
